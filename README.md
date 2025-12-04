@@ -1,4 +1,4 @@
-## Hi there 👋
+![RitLuck](gitartwork.svg)
 
 <!--
 **RitLuck/RitLuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
